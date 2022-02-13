@@ -1,0 +1,72 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/var/www/html/test/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/52b2a79d/
+#about	style.css	/^#about {$/;"	i
+#basketball	style.css	/^#basketball {$/;"	i
+#leftfooter	style.css	/^#leftfooter {$/;"	i
+#lifecoaching	style.css	/^#lifecoaching {$/;"	i
+#middlefooter	style.css	/^#middlefooter {$/;"	i
+#rightfooter	style.css	/^#rightfooter {$/;"	i
+#tennis	style.css	/^#tennis {$/;"	i
+*	style.css	/^* {$/;"	s
+.card	style.css	/^.card {$/;"	c
+.card button	style.css	/^.card button {$/;"	s
+.container	style.css	/^.container {$/;"	c
+.container > div	style.css	/^.container > div {$/;"	s
+.first	style.css	/^.first {$/;"	c
+.footer	style.css	/^.footer {$/;"	c
+.hamburger	style.css	/^	.hamburger {$/;"	c
+.hamburger	style.css	/^.hamburger {$/;"	c
+.logo	style.css	/^.logo {$/;"	c
+.menu	style.css	/^	.menu {$/;"	c
+.menu	style.css	/^.menu {$/;"	c
+.menu li	style.css	/^.menu li {$/;"	s
+.menu li + li	style.css	/^	.menu li + li {$/;"	s
+.menu li:hover	style.css	/^	.menu li:hover {$/;"	s
+.menu li:hover	style.css	/^.menu li:hover {$/;"	s
+.nav-links a	style.css	/^.nav-links a {$/;"	s
+.navbar	style.css	/^.navbar {$/;"	c
+.second	style.css	/^.second {$/;"	c
+.third	style.css	/^.third {$/;"	c
+251oS2qfO4VBMhirfpk0mC76kdN	.idea/workspace.xml	/^  <component name="ProjectId" id="251oS2qfO4VBMhirfpk0mC76kdN" \/>$/;"	i
+Around the Web	index.html	/^					<h3>Around the Web<\/h3>$/;"	j
+BasketBall	index.html	/^					<h1>BasketBall<\/h1>$/;"	h
+COACH ELLIS	index.html	/^					<h1>COACH ELLIS<\/h1>$/;"	h
+Default	.idea/workspace.xml	/^    <task active="true" id="Default" summary="Default task">$/;"	i
+For basketball?	index.html	/^				<h1>For basketball?<\/h1>$/;"	h
+For tennis?	index.html	/^				<h1>For tennis?<\/h1>$/;"	h
+Life Coaching	index.html	/^					<h1>Life Coaching<\/h1>$/;"	h
+Location	index.html	/^					<h2>Location<\/h2>$/;"	i
+Routine - what to expect in a normal day?	index.html	/^				<h1>Routine - what to expect in a normal day?<\/h1>$/;"	h
+Tennis	index.html	/^					<h1>Tennis<\/h1>$/;"	h
+a	style.css	/^a,$/;"	s
+a.active	style.css	/^a.active {$/;"	c
+a:active	style.css	/^a:active,$/;"	s
+a:focus	style.css	/^a:focus,$/;"	s
+a:hover	style.css	/^a:hover,$/;"	s
+about	index.html	/^				<div id="about">$/;"	I
+basketball	index.html	/^				<div class="card" id="basketball">$/;"	I
+body	style.css	/^body {$/;"	s
+body	style.css	/^html, body { height: 100%; }$/;"	s
+checkbox_toggle	index.html	/^				<input type="checkbox" id="checkbox_toggle" \/>$/;"	I
+d9a35058-89b3-433d-be14-a769c97369ca	.idea/workspace.xml	/^      <changelist id="d9a35058-89b3-433d-be14-a769c97369ca" name="Changes" comment="" \/>$/;"	i
+d9a35058-89b3-433d-be14-a769c97369ca	.idea/workspace.xml	/^    <list default="true" id="d9a35058-89b3-433d-be14-a769c97369ca" name="Changes" comment="">$/;"	i
+hr	style.css	/^hr {$/;"	s
+html	style.css	/^html, body { height: 100%; }$/;"	s
+input[type=checkbox]	style.css	/^input[type=checkbox]{$/;"	s
+input[type=checkbox] :checked ~ .menu	style.css	/^	input[type=checkbox]:checked ~ .menu{$/;"	c
+leftfooter	index.html	/^				<div id="leftfooter">$/;"	I
+li	style.css	/^li {$/;"	s
+lifecoaching	index.html	/^				<div class="card" id="lifecoaching">$/;"	I
+middlefooter	index.html	/^				<div id="middlefooter">$/;"	I
+photo	index.html	/^				<div id="photo">$/;"	I
+rightfooter	index.html	/^				<div id="rightfooter">$/;"	I
+tennis	index.html	/^				<div class="card" id="tennis">$/;"	I
