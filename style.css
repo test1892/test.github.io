@@ -89,6 +89,9 @@ input[type=checkbox]{
 	justify-content: space-around;
 }
 
+#photo {
+	flex: 1;
+}
 #about {
 }
 
